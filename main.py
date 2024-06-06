@@ -34,15 +34,12 @@ class Manager:
                         MongoDB()
 
                     elif opnosql == 2:
-                        print(1)
                         Redis()
 
                     elif opnosql == 3:
-                        print(1)
                         CouchDB()
 
                     elif opnosql == 4:
-                        print(1)
                         Firebase()
 
                 else:
